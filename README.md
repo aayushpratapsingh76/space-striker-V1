@@ -3,7 +3,7 @@
 A retro 2D pixelated arcade space shooter game built using HTML5, CSS, and JavaScript.
 
 ## 🕹️ Live Demo
-Play the game live in your browser here: [https://space-striker-black.vercel.app/]
+Play the game live in your browser here: [https://space-striker-v1.vercel.app/]
 
 ## 🎮 How to Play
 * **Movement:** Drag your finger on the screen, or drag with your mouse.
